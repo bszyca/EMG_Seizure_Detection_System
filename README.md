@@ -8,5 +8,5 @@ First if you want to configure HC-05 via AT commands you have to add a wire whic
 Arduino folder contains a pretty simple idea of a system which is filtering the EMG signal from Myoware module. 
 There is also zero-crossings method implemeneted which id the core part of the system if it comes to decide whetheer the seizure attack was. 
 
-You have to install the app which is in EMG-sens repo to see the results. 
+You have to install the app which is in EMG-sens repo to see the results. https://github.com/bszyca/EMG_sens
 

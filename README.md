@@ -1,4 +1,4 @@
-# EMG-inz
+# EMG_Seizure_Detection_System
 This is my engineering project. 
 
 The Hc-05 folder contains very basic code for communicating with HC-05 Blueooth module. 

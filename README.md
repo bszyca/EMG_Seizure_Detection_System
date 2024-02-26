@@ -11,7 +11,7 @@ Schematic:
 
 
 Arduino folder contains a pretty simple idea of a system which is filtering the EMG signal from Myoware module. 
-There is also zero-crossings method implemeneted which id the core part of the system if it comes to decide whetheer the seizure attack was. 
+There is also zero-crossings method implemeneted which id the core part of the system if it comes to decide whether the seizure attack occured. 
 
 EMG Signal indicating seizure in Arduino IDE:
 
